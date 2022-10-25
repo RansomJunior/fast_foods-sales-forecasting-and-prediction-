@@ -1,0 +1,14 @@
+Model,RMSE,MAPE,Method,Model Type
+RANSAC REG,2717.6,23.26,Machine Learning,Prediction
+SVR,2562.95,42.46,Machine Learning,Prediction
+Theil-Sen REG,2494.59,43.81,Machine Learning,Prediction
+M-REG,2368.55,44.15,Machine Learning,Prediction
+LightGBM,2179.09,49.29,Machine Learning,Prediction
+OLS REG,2133.16,17.49,Machine Learning,Prediction
+AdaBoost,2097.48,45.03,Machine Learning,Prediction
+Decision Tree,2026.84,52.02,Machine Learning,Prediction
+RandomForest,2026.84,52.02,Machine Learning,Prediction
+Bagging meta-estimator,2023.1,49.51,Machine Learning,Prediction
+Polynomial REG,2008,16.69,Machine Learning,Prediction
+XGBoost(XGBM),1939.75,51.66,Machine Learning,Prediction
+Gradient Boosting (GBM),1785.65,50.53,Machine Learning,Prediction
